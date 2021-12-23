@@ -16,7 +16,7 @@
         <td bgcolor='#336699'><b>ผู้เสียชีวิตรวม</b></td></font></tr>";
  
   foreach($data as $key=>$val){
-    echo "<tr align='center'>";
+    echo "<tr align= 'center'>";
     echo "<td bgcolor='#D8BFD8'>";
     echo ($key+1);
     echo "</td>";
