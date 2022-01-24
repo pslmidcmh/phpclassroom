@@ -59,8 +59,8 @@
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">จัดทำโดย</h5>
-              <p class="card-text">ชื่อ นามสกุลมึง มีนางสาวด้วย</p>
-              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ เลขที่มึง , เลขประจำตัวนักเรียนมึง</small></p>
+              <p class="card-text">นางสาวภูริษา  พรมศาลาเมฆ</p>
+              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่21 , 55805 </small></p>
             </div>
           </div>
         </div>
